@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Euclid
+comment1.params=
+comment1.target=Euclid()
+comment2.params=x\ y
+comment2.target=long\ GCD(long,\ long)
+comment3.params=x\ y
+comment3.target=long\ extEuclid(long,\ long)
+numComments=4
